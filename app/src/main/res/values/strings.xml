@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GreenRoute</string>
+    <string name="app_subtitle">Garbage Collection Route Optimizer</string>
+    <string name="project_context">Government Polytechnic, Rajkot, Gujarat</string>
+    <string name="login_title">Administrator Login</string>
+    <string name="demo_access">Demo Admin Quick Access</string>
+    <string name="email_label">Email Address</string>
+    <string name="password_label">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_map">Live Map</string>
+    <string name="nav_locations">Locations</string>
+    <string name="nav_optimize">Optimize</string>
+    <string name="nav_fleet">Fleet</string>
+    <string name="nav_analytics">Analytics</string>
+    <string name="delete_confirm_title">Confirm Deletion</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+</resources>

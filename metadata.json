@@ -1,0 +1,6 @@
+{
+  "name": "GreenRoute",
+  "description": "Smart City Garbage Collection Route Optimizer for Rajkot, Gujarat (Government Polytechnic Rajkot)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
